@@ -1,8 +1,8 @@
 they
 
-sourc engine enjoyer (this is a lie nobody can enjoy working with source)
-lua
-c++
+sourc engine enjoyer (this is a lie nobody can enjoy working with source)\n
+lua\n
+c++\n
 java
 <!---
 iiandromedaa/iiandromedaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
