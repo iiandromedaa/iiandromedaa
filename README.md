@@ -1,5 +1,3 @@
-<b>they</b>
-
 andromeda#6982
 
 sourc engine enjoyer (this is a lie, source engine was invented as a torture device)
