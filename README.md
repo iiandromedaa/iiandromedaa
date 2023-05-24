@@ -1,10 +1,8 @@
 reach me at andromeda#6982 on discord
+👋💜
 
-i can work with valve source engine, i know what predelta means when used in a qc file and i can write vmts by hand <br>
-im also pretty decent at lua and java <br>
-oh and blender ive been doing that for half a decade now <br>
-
-currently working on learning machine learning with tensorflow
+im currently working on learning machine learning with tensorflow <br>
+ive got a lot of experience working in the source engine, as well as with lua and java
 
 im going into the UW system majoring in computer science
 
