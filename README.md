@@ -1,11 +1,15 @@
-reach me at andromeda#6982 on discord
+hi, im androbohij or andromeda or andro on most platforms
+<br>you can reach me at andromeda#6982 on discord
 👋💜
 
 im currently working on learning machine learning with tensorflow <br>
 ive got a lot of experience working in the source engine, as well as with lua and java
 
 im going into the UW system this fall majoring in computer science
-
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=iiandromedaa&style=plastic">
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
