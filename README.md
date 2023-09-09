@@ -5,7 +5,7 @@ hi, im androbohij or andromeda or andro on most platforms
 im currently working on learning machine learning with tensorflow <br>
 ive got a lot of experience working in the source engine, as well as with lua and java
 
-im going into the UW system this fall majoring in computer science
+im currently majoring in computer science
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=iiandromedaa&style=plastic">
