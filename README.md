@@ -1,9 +1,8 @@
 hi, im androbohij or andromeda or andro on most platforms
-<br>you can reach me at andromeda#6982 on discord
+<br>you can reach me at @androbohij on discord
 👋💜
 
-im currently working on learning machine learning with tensorflow <br>
-ive got a lot of experience working in the source engine, as well as with lua and java
+ive got a good chunk of experience working in the source engine doing character modelling and rigging, as well as coding with java
 
 im currently majoring in computer science
 <br>
